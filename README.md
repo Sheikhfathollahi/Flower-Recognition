@@ -4,6 +4,7 @@ Convolutional Neural Network has been used to solve a Supervised Image Classific
 ![img](Flowers/Flower1.jpg)
 
 # Model
-
+![img](Flowers/Model.png)
 
 # Result
+![img](Flowers/Results.png)
